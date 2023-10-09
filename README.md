@@ -7,6 +7,13 @@ Behold My Awesome Project!
 
 License: MIT
 
+## Setup
+
+### This project was initially setup with Cookiecutter using these choices (the image below):
+<br>
+
+![](docs/static/Cookiecutter_initial_setup.png)
+
 ## Settings
 
 Moved to [settings](http://cookiecutter-django.readthedocs.io/en/latest/settings.html).
@@ -61,7 +68,3 @@ Bootstrap v5 is installed using npm and customised by tweaking your variables in
 You can find a list of available variables [in the bootstrap source](https://github.com/twbs/bootstrap/blob/v5.1.3/scss/_variables.scss), or get explanations on them in the [Bootstrap docs](https://getbootstrap.com/docs/5.1/customize/sass/).
 
 Bootstrap's javascript as well as its dependencies are concatenated into a single file: `static/js/vendors.js`.
-
-### This project was initially setup with Cookiecutter using these choices (the image below):
-
-![](docs/static/Cookiecutter_initial_setup.png)
