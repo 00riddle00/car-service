@@ -333,3 +333,7 @@ webpack-stats.json
 .env
 .envs/*
 !.envs/.local/
+
+# PyCharm project-specific settings. It also contains user's local PyCharm configs
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839.
+.idea/
